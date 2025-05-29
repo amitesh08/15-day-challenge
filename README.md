@@ -46,8 +46,8 @@ Welcome to my **15-Day Code Challenge**! 💪
 
 ## 🙌 Let's Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/amitesh-gupta/))
-- [GitHub]([https://github.com/your-username](https://github.com/amitesh08))
+- [LinkedIn](https://www.linkedin.com/in/amitesh-gupta/)
+- [GitHub](https://github.com/amitesh08)
 - [Twitter](https://x.com/amitesshh)
 
 ---
