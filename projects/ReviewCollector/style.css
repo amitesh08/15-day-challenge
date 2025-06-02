@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(243, 236, 236);
+  color: black;
+  font-family: "Segoe UI", sans-serif;
+  display: flex;
+  height: 100vh;
+}
+.review-collector {
+  background-color: white;
+  width: 50vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-right: 4px solid black;
+  padding: 20px; /* Optional: Some inner spacing */
+}
+textarea {
+  margin-bottom: 10px;
+  width: 80%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;
+}
+button {
+  background-color: cornflowerblue; /* Green */
+  border: none;
+  color: white;
+  padding: 12px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 5px;
+  border: 2px solid black;
+  font-size: 16px;
+}
+.review-list {
+  background-color: white;
+  width: 50vw;
+  height: 100vh;
+}
