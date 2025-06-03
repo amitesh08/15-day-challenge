@@ -10,13 +10,14 @@ postBtn.addEventListener("click", () => {
   const reviewItem = document.createElement("div");
   reviewItem.style.display = "flex";
   reviewItem.style.justifyContent = "space-between";
+  reviewItem.style.fontWeight = "600";
   reviewItem.style.alignItems = "center";
-  reviewItem.style.border = "1px solid #ccc";
+  reviewItem.style.border = "2px solid black";
   reviewItem.style.margin = "10px";
   reviewItem.style.width = "40vw";
-  reviewItem.style.padding = "10px 40px";
+  reviewItem.style.padding = "12px 20px";
   reviewItem.style.borderRadius = "8px";
-  reviewItem.style.backgroundColor = "#f8f8f8";
+  reviewItem.style.backgroundColor = "oldlace";
 
   // Text span
   const reviewText = document.createElement("span");
@@ -26,7 +27,7 @@ postBtn.addEventListener("click", () => {
   // Delete button
   const deleteBtn = document.createElement("button");
   deleteBtn.textContent = "X";
-  deleteBtn.style.backgroundColor = "red";
+  deleteBtn.style.backgroundColor = "orangered";
   deleteBtn.style.color = "white";
   deleteBtn.style.border = "none";
   deleteBtn.style.padding = "5px 10px";

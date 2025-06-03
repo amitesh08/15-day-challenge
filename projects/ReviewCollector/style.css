@@ -8,7 +8,7 @@ body {
   height: 100vh;
 }
 .review-collector {
-  background-color: white;
+  background-color: #eadddd;
   width: 50vw;
   height: 100vh;
   display: flex;
@@ -42,8 +42,12 @@ button {
   border: 2px solid black;
   font-size: 16px;
 }
+button:hover {
+  cursor: pointer;
+  background-color: rgb(80, 123, 202);
+}
 .review-list {
-  background-color: white;
+  background-color: #eadddd;
   width: 50vw;
   height: 100vh;
 }
